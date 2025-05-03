@@ -64,6 +64,19 @@ footer {
   vertical-align: middle;
 }
 
+.bom.casais {
+  color: #e74c3c; /* vermelho */
+}
+
+.bom.familias {
+  color: #27ae60; /* verde */
+}
+
+.bom.orcamento {
+  color: #2980b9; /* azul */
+}
+
+
 .creditos {
   margin-top: 1.5rem;
   color: #888;
